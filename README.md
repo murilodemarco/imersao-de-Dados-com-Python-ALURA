@@ -82,10 +82,8 @@ Antes de começar, você precisará ter instalado:
 
 ```bash
 # Clone o repositório
- git clone https://github.com/seu-usuario/dashboard-salarios-dados.git
 
 # Acesse a pasta do projeto
- cd dashboard-salarios-dados
 
 # Instale as dependências
  pip install -r requirements.txt

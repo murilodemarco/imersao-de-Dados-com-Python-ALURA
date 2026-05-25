@@ -1,15 +1,5 @@
 # 📊 Dashboard de Salários na Área de Dados
 
-<p align="center">
-  <img src="./preview/dashboard-preview.png" alt="Preview do Dashboard" width="800">
-</p>
-
-<p align="center">
-  <strong>Dashboard interativo desenvolvido com Python e Streamlit para análise de salários na área de dados.</strong>
-</p>
-
----
-
 ## 🚀 Sobre o Projeto
 
 O **Dashboard de Salários na Área de Dados** foi desenvolvido durante a **Imersão de Dados com Python da Alura**, com o objetivo de transformar dados em insights visuais de forma prática e interativa.

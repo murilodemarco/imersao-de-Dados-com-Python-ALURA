@@ -56,6 +56,8 @@ Além da parte técnica, o projeto também evidencia preocupação com experiên
  ┣ 📄 README.md
  ┗ 📂 preview
     ┗ 📄 dashboard-preview.png
+    ┗ 📄 dashboard-preview-2.png
+
 ```
 
 ---

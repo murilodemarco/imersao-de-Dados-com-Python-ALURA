@@ -62,13 +62,9 @@ Além da parte técnica, o projeto também evidencia preocupação com experiên
 
 ## 🖼️ Preview do Projeto
 
-### 📸 Dashboard Principal
 
-> Adicione aqui uma screenshot do dashboard.
+![Dashboard](https://github.com/murilodemarco/imersao-de-Dados-com-Python-ALURA/blob/b36874ffc3983791726a2419e5cd2182baac4c4a/preview/dashboard-preview.png)
 
-```md
-![Dashboard](./preview/dashboard-preview.png)
-```
 ---
 
 ## ⚙️ Como Executar o Projeto
